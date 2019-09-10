@@ -1,3 +1,3 @@
 **Ceci est un fichier de projet personnel**
 Mon projet se nomme "Anim'TRACK"
-c'est un projet qui permet de tracker les animaux en temps réel
+c'est une application mobile qui permet de tracker les animaux en temps réel
